@@ -1,0 +1,4 @@
+git remote add origin https://devyab10:Yassino_5310@github.com/devyab10/mcommerce-config-repo.git
+git add .
+git commit -m "eureka config"
+git push -u origin master
